@@ -1,0 +1,9 @@
+# Site settings
+title: Personal Website
+author:
+  name: Merve Sariisik
+  email: merve@umich.edu
+description: "First try of Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
