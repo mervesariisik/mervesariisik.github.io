@@ -7,3 +7,5 @@ description: "First try of Jekyll on GH-Pages."
 
 # Build settings
 remote_theme: jekyll/minima
+minima:
+  skin: dark
