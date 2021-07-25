@@ -3,10 +3,10 @@ title: Personal Website
 author:
   name: Merve Sariisik
   email: merve@umich.edu
-social_links:
-    twitter: mervesariisik
-    github:  mervesariisik
-    linkedin: mervesariisik
+  social_links:
+      twitter: mervesariisik
+      github:  mervesariisik
+      linkedin: mervesariisik
 description: "First try of Jekyll on GH-Pages."
 
 # Build settings
