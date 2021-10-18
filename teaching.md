@@ -7,7 +7,7 @@ title: Teaching
 **University of Michigan, Ann Arbor**
 - Graduate Student Mentor 
 - Graduate Student Instructor
-    - *SI 425: User Modeling*
+    *- SI 425: User Modeling*
     - *ECON 401: Intermediate Microeconomics*
     - *SIADS 630: Causal Inference*
     - *ECON 409: Game Theory*
