@@ -2,9 +2,11 @@
 layout: page
 title: Teaching
 ---
-## University of Michigan, Ann Arbor
+### Teaching and Teaching Mentorship Roles
 
-- Graduate Student Mentor in the Economics department 
+**University of Michigan, Ann Arbor**
+
+- Graduate Student Mentor 
 - Graduate Student Instructor
     - SI 425: User Modeling
     - ECON 401: Intermediate Microeconomics
@@ -14,13 +16,13 @@ title: Teaching
 - Head Graduate Student Instructor
     - ECON 401: Intermediate Microeconomics
  
- ## Sabanci University, Istanbul
+**Sabanci University, Istanbul**
  
  - Graduate Teaching Assistant
     - ECON 310: Game Theory
     - ECON 370: Advanced Microeconomics
 
-## Bogazici University, Istanbul
+**Bogazici University, Istanbul**
 
 - Undergraduate Teaching Assistant 
     - ECON 203: Intermediate Microeconomic Theory
