@@ -15,6 +15,7 @@ The number of online marketplaces and sharing economy platforms are rapidly incr
 ## Working Paper
 
 **Bargaining under Salary History Ban: An Experiment**
+
 This paper explores the impacts of SHB on bargaining through a frequent interaction experiment where bargaining is dynamic, there is private information and a noisy signal (i.e. salary) available to informed parties. The design lets us analyze salary disclosure behavior, test the mechanism design predictions and come up with best predictors of higher financial gains for the informed party.
 
 
