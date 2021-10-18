@@ -12,6 +12,6 @@ I am an experimental economist and Ph.D. candidate in the Economics Department a
 Before starting my Ph.D., I received an M.A. in Economics at Sabanci University, Istanbul, and B.A. in Economics at Bogazici (Bosphorus) University, Istanbul.
 
 ### More?
--I appeared on the [Ph.D. Student Spotlight of University of Michigan, Department of Economics](https://lsa.umich.edu/econ/news-events/all-news/student-news/phd-student-spotlight--merve-sariisik.html).
--My [short speech](https://www.youtube.com/watch?v=8_5pF07RBTg) (courtesy of my brother who hit record while watching it from Istanbul) at the 2019 Ph.D. and MAE Commencement Ceremony of University of Michigan, Department of Economics.
+- I appeared on the [Ph.D. Student Spotlight of University of Michigan, Department of Economics](https://lsa.umich.edu/econ/news-events/all-news/student-news/phd-student-spotlight--merve-sariisik.html).
+- My [short speech](https://www.youtube.com/watch?v=8_5pF07RBTg) (courtesy of my brother who hit record while watching it from Istanbul) at the 2019 Ph.D. and MAE Commencement Ceremony of University of Michigan, Department of Economics.
 
