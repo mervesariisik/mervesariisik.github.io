@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resources
+title: Teaching
 ---
 [Link text Here](https://lost-stats.github.io/)
 Some Markdown content describing your research.
