@@ -3,9 +3,6 @@ layout: page
 title: About
 ---
 
-Some Markdown content describing your site.
-
-## About About Pages
 
 I am an experimental economist and Ph.D. candidate in the Economics Department at the University of Michigan.  My research draws upon questions across and at the intersection of Labor and Behavioral Economics. My interests involve gender inequality, discrimination, strategic information transmission and bargaining. I use approaches through the lens of my background in Theory and Experimental Economics to tackle related questions. Currently, I am working on the controversial “Salary History Ban” and its implications to various extents. 
 
