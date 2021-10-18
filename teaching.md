@@ -2,14 +2,25 @@
 layout: page
 title: Teaching
 ---
-[Link text Here](https://lost-stats.github.io/)
-Some Markdown content describing your research.
+## University of Michigan, Ann Arbor
 
-## About About Pages
+- Graduate Student Mentor in the Economics department 
+- Graduate Student Instructor
+    - SI 425: User Modeling
+    - ECON 401: Intermediate Microeconomics
+    - SIADS 630: Causal Inference
+    - ECON 409: Game Theory
+    - ECON 102: Principles of Microeconomics
+- Head Graduate Student Instructor
+    - ECON 401: Intermediate Microeconomics
+ 
+ ## Sabanci University, Istanbul
+ 
+ - Graduate Teaching Assistant
+    - ECON 310: Game Theory
+    - ECON 370: Advanced Microeconomics
 
-The About page is a common convention found on websites.
-It is your opportunity to let us know all the details "about" your project:
+## Bogazici University, Istanbul
 
-- focus and topic area
-- people involved
-- code and projects use
+- Undergraduate Teaching Assistant 
+    - ECON 203: Intermediate Microeconomic Theory
