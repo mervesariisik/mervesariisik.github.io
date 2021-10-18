@@ -18,5 +18,7 @@ title: Resources
 - [Causal Panel Data Models](https://www.youtube.com/watch?v=jGfHQlu6xfs), video by Guido Imbens at Royal Economic Society 2021: Sargan Lecture
 
 ### Stuff We Don't Talk Much About
-- About finding joy in getting lost and what may be a fresh perspective to view their research for some (myself included): TED talk of Uri Alon, "Why Truly Innovative Science Demands a Leap into the Unknown" [![Uri Alon: Why truly innovative science demands a leap into the unknown](https://img.youtube.com/vi/F1U26PLiXjM/0.jpg)](https://www.youtube.com/watch?v=F1U26PLiXjM)
+About finding joy in getting lost and what may be a fresh perspective to view their research for some (myself included).
+- TED talk of Uri Alon, "Why Truly Innovative Science Demands a Leap into the Unknown":
+ [![Uri Alon: Why truly innovative science demands a leap into the unknown](https://img.youtube.com/vi/F1U26PLiXjM/0.jpg)](https://www.youtube.com/watch?v=F1U26PLiXjM)
 
