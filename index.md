@@ -2,8 +2,15 @@
 layout: home 
 ---
 
-Economics Ph.D. candidate at the University of Michigan. (On the Job Market)
+Welcome to my website!
 
-                                                                                                               
-*Fields:* Experimental & Behavioral Economics, Applied Microeconomics
+I am a Ph.D. candidate in Economics at the University of Michigan.
+
+I am currently on the job market (2021-2022).
+
+My fields are:
+
+- Experimental & Behavioral Economics
+- Applied Microeconomics
+
 
