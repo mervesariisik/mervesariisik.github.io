@@ -4,7 +4,7 @@ title: Teaching
 ---
 ### Teaching and Teaching Mentorship Roles
 ![test image size](https://raw.githubusercontent.com/mervesariisik/mervesariisik.github.io/main/zoom-teaching.png){:height="50%" width="100%"}
-![test image size](https://raw.githubusercontent.com/mervesariisik/mervesariisik.github.io/main/teaching-eval1.png){:height="50%" width="100%"}
+![test image size](https://raw.githubusercontent.com/mervesariisik/mervesariisik.github.io/main/teaching-eval-ss.png){:height="50%" width="100%"}
 
 **University of Michigan, Ann Arbor:**
 - Graduate Student Mentor 
