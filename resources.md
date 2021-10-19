@@ -19,6 +19,6 @@ title: Resources
 ### Stuff We Don't Talk Much About
 About finding joy in getting lost and what may be a fresh perspective to view their research for some (myself included):
 
-- TED talk of Uri Alon, ["Why Truly Innovative Science Demands a Leap into the Unknown"](https://www.ted.com/talks/uri_alon_why_science_demands_a_leap_into_the_unknown?language=en).
+- [Why Truly Innovative Science Demands a Leap into the Unknown](https://www.ted.com/talks/uri_alon_why_science_demands_a_leap_into_the_unknown?language=en), TED talk of Uri Alon
 
- ![Uri Alon: Why truly innovative science demands a leap into the unknown](https://img.youtube.com/vi/F1U26PLiXjM/1.jpg)
+ ![Uri Alon: Why truly innovative science demands a leap into the unknown](https://img.youtube.com/vi/F1U26PLiXjM/0.jpg)
