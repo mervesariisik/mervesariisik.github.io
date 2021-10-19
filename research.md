@@ -3,6 +3,7 @@ layout: page
 title: Research
 ---
 
+![test image size](https://raw.githubusercontent.com/mervesariisik/mervesariisik.github.io/main/ss_decision_w32_observer_1_1.png){:height="50%" width="50%"}
 
 **Voluntary Disclosure under Salary History Ban: A Model and an Experimental Investigation** *(Job Market Paper)*
 
