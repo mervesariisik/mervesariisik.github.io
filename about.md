@@ -14,4 +14,4 @@ Before starting my Ph.D., I received an M.A. in Economics at Sabanci University,
 --------------
 
 *Chat with Colin Camerer - Bogotá Experimental Economics Conference, January 2018:*
-![Bogota Experimental Economics Conference](https://raw.githubusercontent.com/mervesariisik/mervesariisik.github.io/main/Colin-Camerer.jpg){:height="50%" width="90%"}
+![Bogota Experimental Economics Conference](https://raw.githubusercontent.com/mervesariisik/mervesariisik.github.io/main/Colin-Camerer.jpg){:height="50%" width="100%"}
