@@ -17,6 +17,9 @@ The number of online marketplaces and sharing economy platforms are rapidly incr
 
 This paper explores the impacts of SHB on bargaining through a frequent interaction experiment where bargaining is dynamic, there is private information and a noisy signal (i.e. salary) available to informed parties. The design lets us analyze salary disclosure behavior, test the mechanism design predictions and come up with best predictors of higher financial gains for the informed party.
 
+
+--------------
+
 Secreenshot from an experiment I programmed:
 ![test image size](https://raw.githubusercontent.com/mervesariisik/mervesariisik.github.io/main/ss_decision_w32_observer_1_1.png){:height="60%" width="90%"}
 
