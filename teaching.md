@@ -2,10 +2,12 @@
 layout: page
 title: Teaching
 ---
-### Teaching and Teaching Mentorship Roles
+Screenshot from Zoom teaching during Covid-19 times, W21:
 ![Zoom Teaching in W21](https://raw.githubusercontent.com/mervesariisik/mervesariisik.github.io/main/zoom-teaching.png){:height="50%" width="100%"}
+Teaching Evaluations:
 ![Teaching Evals](https://raw.githubusercontent.com/mervesariisik/mervesariisik.github.io/main/teachin-eval-ss.png){:height="50%" width="100%"}
 
+### Teaching and Teaching Mentorship Roles
 **University of Michigan, Ann Arbor:**
 - Graduate Student Mentor 
 - Graduate Student Instructor
