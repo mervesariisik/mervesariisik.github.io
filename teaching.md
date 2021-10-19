@@ -7,7 +7,6 @@ title: Teaching
 
 *Screenshot from Teaching Evaluation Student Comments:*
 ![Teaching Evals](https://raw.githubusercontent.com/mervesariisik/mervesariisik.github.io/main/teachin-eval-ss.png){:height="50%" width="100%"}
-
 ### Teaching and Teaching Mentorship Roles
 **University of Michigan, Ann Arbor:**
 - Graduate Student Mentor 
