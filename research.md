@@ -20,6 +20,6 @@ This paper explores the impacts of SHB on bargaining through a frequent interact
 
 --------------
 
-Secreenshot from an experiment I programmed:
+*Screenshot from an experiment I programmed:*
 ![test image size](https://raw.githubusercontent.com/mervesariisik/mervesariisik.github.io/main/ss_decision_w32_observer_1_1.png){:height="60%" width="90%"}
 
